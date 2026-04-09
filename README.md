@@ -8,6 +8,8 @@
 
 [![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=<YOUR_PUBLIC_REPO_URL>)
 
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/calonye/cf-cursor-model-id-fork)
+
 例如，如果仓库地址是 `https://github.com/yourname/cf-cursor-model-id`，那么按钮链接应改成：
 
 ```md
